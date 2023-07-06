@@ -1,0 +1,2 @@
+/home/viktor/repos/CPlusPlusExamples/build/CMakeFiles/rebuild_cache.dir
+/home/viktor/repos/CPlusPlusExamples/build/CMakeFiles/edit_cache.dir
